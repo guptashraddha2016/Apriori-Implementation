@@ -3,6 +3,6 @@ Analysis Stationary Data and find a association between products and generate a 
 
 # File Description
   1. Apriori Algorithm (Excel File)
-  2. README
+  2. README File
 
 
